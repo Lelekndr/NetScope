@@ -1,0 +1,27 @@
+
+# Executáveis e arquivos compilados
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Diretórios de build
+/bin/
+/dist/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+
+# Configurações do editor e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
