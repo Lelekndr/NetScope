@@ -1,8 +1,7 @@
-
 package main
 
 import "fmt"
 
 func main() {
-    fmt.Println("NetScope iniciado!")
+	fmt.Println("NetScope iniciado!")
 }
